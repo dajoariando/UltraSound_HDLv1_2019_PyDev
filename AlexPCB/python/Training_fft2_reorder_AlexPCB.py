@@ -1,4 +1,4 @@
-'''25% overlap python code optimized by vida
+'''25% overlap python code optimized by david / vida
 Created on Apr 10, 2018
 
 @author: vxp126
